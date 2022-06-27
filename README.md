@@ -18,7 +18,7 @@ This tutorial steps would help you:
 <p>step 10. Press dir</p>
 <p>step 11. Press cd EFI</p>
 <p>step 12. Press dir</p>
-<p>step 13. Press rd <name of os> /s</p>
+<p>step 13. Press rd (name of OS) /s</p>
 <p>step 14. Press Y </p>
 
 The Gurb-Interface dual boot for the linux os will be removed from the system.
